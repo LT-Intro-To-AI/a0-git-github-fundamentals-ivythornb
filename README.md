@@ -1,12 +1,12 @@
 # :wave: The Basics of Git and GitHub 
 
-## 🤓 Course overview and learning outcomes 
+## Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform.
 
 ## :octocat: Git and GitHub
 
-**Git is a distributed Version Control System (VCS) that helps track changes as you work on new software development projects.** Git tracks the changes you make so you always have a record of what you’ve worked on and you can easily revert back to an older version of your code if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source! 
+**Git is a distributed Version Control System (VCS) that helps track changes as you work on new software development projects.** Git tracks the changes you make so you always have a record of what you’ve worked on and you can easily revert back to an older version of your code. It also makes working with others easier- merge their changes into one final source! 
 
 **GitHub is a collaboration platform.** From software to legal documents, you can count on GitHub to help you do your best work with the collaboration and security tools your team needs. With GitHub, you can keep projects completely private, invite the world to collaborate, and streamline every step of your project.
 
@@ -14,7 +14,7 @@ The goal of this course is to give you a brief introduction to GitHub. We’ll a
 
 **GitHub helps people do much more.** GitHub is used to build some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics, but we'll dig into the rest later.
 
-## 💻 GitHub features 
+##  GitHub features 
 
 ### Repositories 
 
@@ -70,7 +70,7 @@ Read more about following users [here](https://docs.github.com/en/github/getting
 
 #### Browsing GitHub Explore 
 
-GitHub Explore is a great place to do just that … explore :smile: You can find new projects, events, and developers to interact with.
+GitHub Explore is a great place to do just that … explore You can find new projects, events, and developers to interact with.
 
 Check out GitHub Explore [here](https://github.com/explore). The more you intereact with GitHub the more tailored your Explore view will be. 
 
@@ -96,13 +96,13 @@ Read more about cloning here.
 
 A fork is another way to copy a repository, but is most commonly used when contributing to someone else’s project. Forking a repository allows you to freely experiment with changes without affecting the original project and is very popular when contributing to open source software projects.
 
-Read more about forking [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+Read more about forking-(https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
-## 📝 Optional next steps 
+##  Optional next steps 
 
 * Open a pull request and let your teacher know that you’ve finished this course.  
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
-* Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? [Here](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme) are steps on how to do that. 
+* Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby?-(https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme) are steps on how to do that. 
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
 * Let us know what you liked or didn’t like about the content of this course. What would you like to see more of? What would be interesting or helpful to your learning journey? Take our survey. 
 
